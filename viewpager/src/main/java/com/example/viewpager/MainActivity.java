@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    //项目提交
+    //项目提交第二次
     //广告条的图片资源
     private int[]    imageRes     = {R.drawable.a, R.drawable.b, R.drawable.c, R.drawable.d, R.drawable.e};
     //广告条的描述信息数组
