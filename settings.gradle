@@ -1,1 +1,1 @@
-include ':app', ':youku', ':viewpager'
+include ':app', ':quickindexbar', ':parallax', ':gooview', ':swipelayout'
